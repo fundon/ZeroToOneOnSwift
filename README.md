@@ -2,6 +2,8 @@
 
 Learn Swift from Zero to One.
 
+从 0 到 1，开始学习 Swift。
+
 
 ---
 
